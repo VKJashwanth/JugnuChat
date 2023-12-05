@@ -1,0 +1,23 @@
+{
+  "name": "JugnuChat",
+  "version": "1.0.0",
+  "description": "Chat App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jashwanth aka CleverCoder",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.40",
+    "node-fetch": "^3.2.6",
+    "profanity-cleanser": "^1.0.1",
+    "profanity-filter": "^0.2.1",
+    "socket.io": "^4.5.4",
+    "utils": "^0.3.1"
+  }
+}
